@@ -1,8 +1,8 @@
 
 # react-native-time-pie
 
-[![npm package](https://img.shields.io/npm/v/react-native-textarea.svg?style=flat-square)](https://www.npmjs.org/package/react-native-textarea)
-[![npm downloads](https://img.shields.io/npm/dt/react-native-textarea.svg)](https://www.npmjs.com/package/react-native-textarea)
+[![npm package](https://img.shields.io/npm/v/react-native-time-pie.svg?style=flat-square)](https://www.npmjs.org/package/react-native-time-pie)
+[![npm downloads](https://img.shields.io/npm/dt/react-native-time-pie.svg)](https://www.npmjs.com/package/react-native-time-pie)
 
 ## 运行效果
 
