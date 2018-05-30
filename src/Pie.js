@@ -3,8 +3,9 @@
  * https://github.com/nihgwu/react-native-pie
  */
 
-import React, { PropTypes } from 'react';
+import React from 'react';
 import { ART, Platform } from 'react-native';
+import PropTypes from 'prop-types';
 
 const { Surface, Shape, Path, Group } = ART;
 
